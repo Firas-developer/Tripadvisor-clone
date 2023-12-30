@@ -75,8 +75,7 @@ body{
 .section2__menubar{
     font-weight: bold;
     display: flex;
-    justify-content: center;
-    gap: 30px;
+    justify-content: space-evenly;
     align-items: center;
     cursor: pointer;
 }
@@ -366,7 +365,7 @@ body{
         padding: 0;
     }
     .section2__menubar p{
-        font-size: 8px;
+        font-size: 10px;
     }
     .section2__search__search input{
         font-size: 10px;
