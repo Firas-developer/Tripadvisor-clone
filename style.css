@@ -118,6 +118,7 @@ body{
 }
 .section3__img{
     position: relative;
+    opacity:0.9;
 }
 .section3__text{
     width: 40%;
